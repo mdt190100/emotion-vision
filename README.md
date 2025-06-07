@@ -18,7 +18,7 @@ A real-time facial emotion recognition system using Convolutional Neural Network
 
 Illustrative image showing emotion classification results on multiple faces:
 
-![Emotion detection results](image/demo1.png)
+![Emotion detection results](imagestest/demo1.png)
 
 ---
 

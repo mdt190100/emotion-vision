@@ -8,6 +8,8 @@ emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutr
 
 # Đọc ảnh
 img_path = r"C:\emotion-vision\data\archive (2)\image\image1.jpg"
+img_path = r"C:\emotion-vision\data\archive (2)\image\image2.jpg"
+
 frame = cv2.imread(img_path)
 gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
